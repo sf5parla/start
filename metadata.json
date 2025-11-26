@@ -1,0 +1,5 @@
+{
+  "name": "Simple Start Button",
+  "description": "A minimal application featuring a single start button to trigger a content locker script.",
+  "requestFramePermissions": []
+}
